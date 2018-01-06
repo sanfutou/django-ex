@@ -1,6 +1,8 @@
 # django-ex
 django xuexi
+
 这个是我学django的一个记录
+
 1、关于Django的版本
 
     python -m django --version   #可以查看Django的版本，我用的是2.0
